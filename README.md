@@ -1,6 +1,6 @@
 ## 🧠 About Me 
 
-Hi, I'm a MSc Data Analytis graduate in 2025 and this is my portfolio to showcase my technical and programming skills 
+Hi, I'm a MSc Data Analytics 2025 graduate and this is my portfolio to showcase my technical and programming skills 
 
 ## 📂 Projects
 
