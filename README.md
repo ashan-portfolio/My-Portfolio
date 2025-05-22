@@ -6,7 +6,7 @@ Hi, I'm a MSc Data Analytis graduate and this is my portfolio to showcase my tec
 
 [📈 Portfolio Optimisation 5 Stocks](https://ashan-portfolio.github.io/ashan-portfolio/docs/portfolio_optimisation_5_stocks.pdf)
 
-[🤖 Machine Learning and London Borough Unemployment](https://github.com/ashan-portfolio/ashan-portfolio/blob/main/docs/Factors_which_affect_unemployment_rates_amongst_Boroughs_in_London.pdf)
+[🤖 Machine Learning and London Borough Unemployment]()
 
 ## 📫 How to reach me:
 
