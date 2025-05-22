@@ -11,5 +11,5 @@ Hi, I'm a MSc Data Analytis graduate and this is my portfolio to showcase my tec
 Email - 
 ashan.shep99@gmail.com
 
-LinkedIn
+LinkedIn - 
 www.linkedin.com/in/ashan-shepherd-73a44a201
