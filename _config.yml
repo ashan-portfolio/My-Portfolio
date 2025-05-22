@@ -1,6 +1,4 @@
 title: Ashan Shepherd
 logo: /docs/logo.png
 show_downloads: false
-theme: jekyll-theme-modernist
-
-
+theme: jekyll-theme-minimal
