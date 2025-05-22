@@ -1,4 +1,4 @@
-## 🧠 About Me
+## 🧠 About Me 
 
 Hi, I'm a MSc Data Analytis graduate and this is my portfolio to showcase my technical and programming skills 
 
