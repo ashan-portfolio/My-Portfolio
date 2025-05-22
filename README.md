@@ -4,6 +4,7 @@ Hi, I'm a MSc Data Analytis graduate and this is my portfolio to showcase my tec
 
 ## 📂 Projects
 
+[📈 Portfolio Optimisation | 5 Stocks (PDF)](portfolio_optimisation_5_stocks.pdf)
 
 ## 📫 How to reach me:
 
