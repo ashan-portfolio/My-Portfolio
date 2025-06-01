@@ -12,6 +12,8 @@ Hi, I'm a MSc Data Analytics 2025 graduate and this is my portfolio to showcase 
 
 [🐍 Programming with Python](https://ashan-portfolio.github.io/ashan-portfolio/docs/Programming_Python.pdf)
 
+[🐍 Programming with Python](https://ashan-portfolio.github.io/ashan-portfolio/docs/Hotel_Practice.pdf)
+
 ## 📫 How to reach me:
 
 Email - ashan.shep99@gmail.com
