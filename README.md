@@ -14,7 +14,7 @@ Hi, I'm a MSc Data Analytics 2025 graduate and this is my portfolio to showcase 
 
 [🐍 Programming With Python](https://ashan-portfolio.github.io/ashan-portfolio/docs/Programming_Python.pdf)
 
-[🧠 Neural_Network]()
+[⚽️ Neural_Network]()
 
 ## 📫 How to reach me:
 
