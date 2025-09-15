@@ -1,3 +1,5 @@
+## Ashan Shepherd
+
 ## 🧠 About Me 
 
 Hi, I am a recent MSc Data Analytics graduate with experience in statistical modelling, machine learning and data visualisation through previous jobs and academic projects. I have developed my problem-solving skills and critical thinking, with experience analysing large datasets and building interactive dashboards through software such as Python, Power BI, SQL and R. I am now Seeking to apply these skills in a dynamic, data-driven environment. Here are some projects I have undertaken to keep improving and learning new skills. 
