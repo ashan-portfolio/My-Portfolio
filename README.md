@@ -18,6 +18,6 @@ Hi, I'm a MSc Data Analytics 2025 graduate and this is my portfolio to showcase 
 
 ## 📫 How to reach me:
 
-Email - ashan.shep99@gmail.com
+[Email](ashan.shep99@gmail.com)
 
-[LinkedIn](www.linkedin.com/in/ashan-shepherd-73a44a201)
+[LinkedIn](https://www.linkedin.com/in/ashan-shepherd-73a44a201/)
