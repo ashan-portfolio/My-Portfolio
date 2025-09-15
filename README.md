@@ -4,15 +4,17 @@ Hi, I'm a MSc Data Analytics 2025 graduate and this is my portfolio to showcase 
 
 ## 📂 Projects
 
-[📈 Portfolio Optimisation 5 Stocks](https://ashan-portfolio.github.io/ashan-portfolio/docs/portfolio_optimisation_5_stocks.pdf)
+[📈 Portfolio Optimisation Dashboard Using Python](https://ashan-portfolio.github.io/ashan-portfolio/docs/Stocks_Portfolio_Dashboard.pdf)
 
-[🤖 Machine Learning and London Borough Unemployment](https://ashan-portfolio.github.io/ashan-portfolio/docs/Factors_which_affect_unemployment_rates_amongst_Boroughs_in_London.pdf)
+[📈 Portfolio Optimisation Using Excel For 5 Stocks](https://ashan-portfolio.github.io/ashan-portfolio/docs/portfolio_optimisation_5_stocks.pdf)
 
-[⏰ Forecasting Trends in London Borough House Prices](https://ashan-portfolio.github.io/ashan-portfolio/docs/Detecting_Structural_Breaks_and_Forecasting_Trends_in_London_Borough_House_Prices.pdf)
+[🤖 Machine Learning And London Borough Unemployment](https://ashan-portfolio.github.io/ashan-portfolio/docs/Factors_which_affect_unemployment_rates_amongst_Boroughs_in_London.pdf)
 
-[🐍 Programming with Python](https://ashan-portfolio.github.io/ashan-portfolio/docs/Programming_Python.pdf)
+[⏰ Forecasting Trends In London Borough House Prices](https://ashan-portfolio.github.io/ashan-portfolio/docs/Detecting_Structural_Breaks_and_Forecasting_Trends_in_London_Borough_House_Prices.pdf)
 
-[🧠 Neural_Network](https://ashan-portfolio.github.io/ashan-portfolio/docs/Neural_Network.pdf)
+[🐍 Programming With Python](https://ashan-portfolio.github.io/ashan-portfolio/docs/Programming_Python.pdf)
+
+[🧠 Neural_Network]()
 
 ## 📫 How to reach me:
 
