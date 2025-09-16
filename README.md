@@ -1,4 +1,4 @@
-## Ashan Shepherd
+## Ashan Shepherd | My Portfolio
 
 ## 🧠 About Me
 
