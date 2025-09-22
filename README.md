@@ -6,7 +6,7 @@
 
 ## 📂 Projects
 
-[📈 Portfolio Optimisation Dashboard Using Python](https://ashan-portfolio.github.io/ashan-portfolio/docs/Stocks_Portfolio_Dashboard.pdf)
+[📈 Portfolio Optimisation Dashboard Using Python](https://ashan-portfolio.github.io/My-Portfolio/docs/Stocks_Portfolio_Dashboard.pdf)
 
 [⚽️ Game Analysis Using The Mplsoccer Library In Python](https://ashan-portfolio.github.io/ashan-portfolio/docs/2024_Euros_Final_Analysis.pdf)
 
