@@ -6,6 +6,8 @@
 
 ## 📂 Projects
 
+[Dissertation: THE CLASSIFICATION OF EXOPLANETS USING MACHINE LEARNING TECHNIQUES] 
+
 [📈 Portfolio Optimisation Dashboard Using Python](https://ashan-portfolio.github.io/My-Portfolio/docs/Stocks_Portfolio_Dashboard.pdf)
 
 [⚽️ Game Analysis Using The Mplsoccer Library In Python](https://ashan-portfolio.github.io/My-Portfolio/docs/2024_Euros_Final_Analysis.pdf)
