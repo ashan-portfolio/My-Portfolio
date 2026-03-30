@@ -6,7 +6,7 @@
 
 ## 📂 Projects
 
-[Dissertation: The Classification of Exoplanets Using Machine Learning Techniques](https://github.com/ashan-portfolio/My-Portfolio/docs/The-Classification-Of-Exoplanets-Using-Machine-Learning-Techniques.pdf) 
+[📚Dissertation: The Classification of Exoplanets Using Machine Learning Techniques](https://github.com/ashan-portfolio/My-Portfolio/docs/The-Classification-Of-Exoplanets-Using-Machine-Learning-Techniques.pdf) 
 
 [📈 Portfolio Optimisation Dashboard Using Python](https://ashan-portfolio.github.io/My-Portfolio/docs/Stocks_Portfolio_Dashboard.pdf)
 
