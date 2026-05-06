@@ -8,7 +8,7 @@
 
 [📚DISSERTATION: The Classification of Exoplanets Using Machine Learning Techniques](https://ashan-portfolio.github.io/My-Portfolio/docs/The-Classification-Of-Exoplanets-Using-Machine-Learning-Techniques.pdf) 
 
-[📈 Portfolio Optimisation Dashboard Using Python](https://ashan-portfolio.github.io/My-Portfolio/docs/Stocks_Portfolio_Dashboard.pdf)
+[📈 Portfolio Optimisation Dashboard Using Python](https://stocks-portfolio-optimiser.streamlit.app/)
 
 [⚽️ Game Analysis Using The Mplsoccer Library In Python](https://ashan-portfolio.github.io/My-Portfolio/docs/2024_Euros_Final_Analysis.pdf)
 
